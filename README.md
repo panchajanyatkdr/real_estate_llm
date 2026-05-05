@@ -13,7 +13,7 @@ Bengaluru real estate dataset to build a domain-specific QA assistant.
 - Data: 8 custom datasets (geo, market metrics, news, micromarket timeseries, etc.)
 
 ## 📂 Files
-- `NAL_LLM_model_v3.ipynb` — Full fine-tuning pipeline (run on Google Colab)
+- `Real estate LLM model.ipynb` — Full fine-tuning pipeline (run on Google Colab)
 
 ## 🚀 How to Run
 1. Open the notebook in Google Colab
